@@ -22,12 +22,12 @@ repository               : "m-bkarimi/m-bkarimi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "image.jpg"
+  name             : "M.Karimi"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Computer Science"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "AmirKabir University"
   uri              : # URL
   email            : "none@example.org" 
 
