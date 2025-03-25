@@ -29,7 +29,10 @@ The kernel has four main responsibilities:
 2.	Memory Management – Allocating and protecting memory for different processes.
 3.	Device Drivers – Enabling communication between hardware and software.
 4.	System Calls – Providing an interface for user programs to interact with the kernel.
-<br></br>
+
+<br>
+
+</br>
 
 ![alt text](/images/system_calls.PNG)
 <br>
