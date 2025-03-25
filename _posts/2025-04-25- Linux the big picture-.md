@@ -5,14 +5,12 @@ Chapter 1 provides an overview of how Linux functions, emphasizing abstraction�
 1.	Hardware – The foundation, including memory, CPU, disks, and network interfaces.
 2.	Kernel – The core that manages hardware, memory, processes, and system calls.
 3.	User Space – Running programs (user processes) interacting with the system.
-•	The kernel operates in kernel mode (full system access), while user processes run in user mode (restricted access to prevent system crashes).
+•	The kernel operates in kernel mode (full system access), while user processes run in user mode (restricted access to prevent system crashes).  
 
-![alt text](/images/linux_org.PNG)
-<br> </br>
+![alt text](/images/linux_org.PNG)  
 
 {:.image-caption}
-*[How Linux Works, 3rd Edition]()*
-<br> </br>
+*[How Linux Works, 3rd Edition]()*  
 
 ## 1.2 Hardware: Understanding Main Memory
 •	Main memory (RAM) stores processes and the kernel.
@@ -23,15 +21,14 @@ The kernel has four main responsibilities:
 1.	Process Management – Scheduling and running processes via context switching.
 2.	Memory Management – Allocating and protecting memory for different processes.
 3.	Device Drivers – Enabling communication between hardware and software.
-4.	System Calls – Providing an interface for user programs to interact with the kernel.
-<br> </br>
+4.	System Calls – Providing an interface for user programs to interact with the kernel.  
 
-![alt text](/images/system_calls.png)
-<br> </br>
+![alt text](/images/system_calls.png)  
+
 
 {:.image-caption}
-*[https://phoenixnap.com/kb/system-call](https://phoenixnap.com/kb/system-call)*
-<br> </br>
+*[https://phoenixnap.com/kb/system-call](https://phoenixnap.com/kb/system-call)*  
+
 
 •	Key system calls:
 -	fork() – Creates a new process.
