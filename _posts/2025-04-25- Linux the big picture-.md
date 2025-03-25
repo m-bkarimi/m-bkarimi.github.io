@@ -8,6 +8,7 @@ Chapter 1 provides an overview of how Linux functions, emphasizing abstractionâ€
 â€¢	The kernel operates in kernel mode (full system access), while user processes run in user mode (restricted access to prevent system crashes).
 
 ![alt text](/images/linux_org.PNG)
+
 <br>
 
 </br>
@@ -34,7 +35,7 @@ The kernel has four main responsibilities:
 
 </br>
 
-![alt text](/images/system_calls.PNG)
+![alt text](/images/system_calls.png)
 
 <br>
 
