@@ -8,17 +8,11 @@ Chapter 1 provides an overview of how Linux functions, emphasizing abstraction�
 •	The kernel operates in kernel mode (full system access), while user processes run in user mode (restricted access to prevent system crashes).
 
 ![alt text](/images/linux_org.PNG)
-
-<br>
-
-</br>
+<br> </br>
 
 {:.image-caption}
 *[How Linux Works, 3rd Edition]()*
-
-<br>
-
-</br>
+<br> </br>
 
 ## 1.2 Hardware: Understanding Main Memory
 •	Main memory (RAM) stores processes and the kernel.
@@ -31,22 +25,16 @@ The kernel has four main responsibilities:
 3.	Device Drivers – Enabling communication between hardware and software.
 4.	System Calls – Providing an interface for user programs to interact with the kernel.
 
-<br>
-
-</br>
+<br> </br>
 
 ![alt text](/images/system_calls.png)
 
-<br>
-
-</br>
+<br> </br>
 
 {:.image-caption}
 *[https://phoenixnap.com/kb/system-call](https://phoenixnap.com/kb/system-call)*
 
-<br>
-
-</br>
+<br> </br>
 
 •	Key system calls:
 -	fork() – Creates a new process.
