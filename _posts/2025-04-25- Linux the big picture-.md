@@ -35,6 +35,7 @@ The kernel has four main responsibilities:
 </br>
 
 ![alt text](/images/system_calls.PNG)
+
 <br>
 
 </br>
