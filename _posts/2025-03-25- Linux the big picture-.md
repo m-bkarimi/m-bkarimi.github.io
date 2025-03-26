@@ -1,5 +1,4 @@
-## The Big Picture
-Chapter 1 provides an overview of how Linux functions, emphasizing abstraction—a method that simplifies understanding by focusing on essential components rather than details.
+
 ## 1.1 Levels and Layers of Abstraction
 •	Linux is organized into layers:
 1.	Hardware – The foundation, including memory, CPU, disks, and network interfaces.
