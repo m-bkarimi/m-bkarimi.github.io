@@ -1,4 +1,4 @@
 ## Linux File Permissions
 
-![alt text](/images/linux_permissions.PNG)  
+![alt text](/images/linux_permissions.jpg)  
 
